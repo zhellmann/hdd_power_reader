@@ -1,5 +1,5 @@
 # HDD power reader
-Cheap HDD power monitoring tool made with Arduino, Lazarus and DataPort library https://github.com/serbod/dataport
+Cheap HDD power monitoring tool made with Arduino, Lazarus and DataPort library (https://github.com/serbod/dataport)
 
 ![Screenshot](images/5v.png)
 ![Screenshot](images/12v.png)
